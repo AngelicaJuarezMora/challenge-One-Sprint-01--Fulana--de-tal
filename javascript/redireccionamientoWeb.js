@@ -11,15 +11,15 @@ curriculumVitae.addEventListener("click", function(){
 });
 
 demoUno.addEventListener("click", function(){
-    abrirNuevaPagina("https://mauri-rivera.github.io/Challenge-ONE-Encriptador-Desencriptador");
+    abrirNuevaPagina("https://github.com/alura-cursos");
 });
 
 demoDos.addEventListener("click", function(){
-    abrirNuevaPagina("https://mauri-rivera.github.io/Challenge-ONE-Juego-del-Ahorcado");
+    abrirNuevaPagina("https://github.com/alura-cursos");
 });
 
 gitHub.addEventListener("click", function(){
-    abrirNuevaPagina("https://github.com/mauri-rivera");
+    abrirNuevaPagina("https://github.com/alura-cursos");
 });
 
 linkedIn.addEventListener("click", function(){
@@ -27,11 +27,11 @@ linkedIn.addEventListener("click", function(){
 });
 
 repositorioUno.addEventListener("click", function(){
-   abrirNuevaPagina("https://github.com/mauri-rivera/Challenge-ONE-Encriptador-Desencriptador");
+   abrirNuevaPagina("https://github.com/alura-cursos");
 });
 
 repositorioDos.addEventListener("click", function(){
-    abrirNuevaPagina("https://github.com/mauri-rivera/Challenge-ONE-Juego-del-Ahorcado");
+    abrirNuevaPagina("https://github.com/alura-cursos");
 }); 
 
 function abrirNuevaPagina(url){
